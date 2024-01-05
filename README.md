@@ -1,7 +1,7 @@
 # ⛷️ Alexandru Bogdan
 **`Digital Craftsman (Developer/MusicProducer/Creator)`**
 
-I'm an indie developer and music producer building my version of the digital world one step at a time. As I'm just learning, some projects might still followr certain guide-lines and tutorials, but the way I finalize the content is using my own artistic touches. I'll start to publish that content on my YouTube channel soon as well.
+I'm an indie developer and music producer building my version of the digital world one step at a time. As I'm just learning, some projects might still follow certain guide-lines and tutorials, but the way I finalize the content is using my own artistic touches. I'll start to publish that content on my YouTube channel soon as well.
 
 ---
 
