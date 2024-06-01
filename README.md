@@ -9,7 +9,9 @@ I'm an indie developer and music producer building my version of the digital wor
 
 
 <img align="left" alt="Ableton" width="30px" style="padding-right:10px;" src="https://devicons.dev.br/icons?icon=Ableton&size=48&theme=dark&perline=3" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://devicons.dev.br/icons?icon=Photoshop&size=48&theme=dark&perline=3" />
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          " />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicons.dev.br/icons?icon=Python&size=48&theme=dark&perline=3" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://devicons.dev.br/icons?icon=Linux&size=48&theme=dark&perline=3" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://devicons.dev.br/icons?icon=Github&size=48&theme=dark&perline=3" />
