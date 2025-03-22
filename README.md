@@ -34,6 +34,8 @@ I'm an indie developer and music producer building my version of the digital wor
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pglbiscuite&theme=gruvbox)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pglbiscuite&bg_color=0d1117&color=4fc3f7&line=80d8ff&point=a5d8ff&area=true&area_color=29b6f7&hide_border=false&border_color=29b6f6)
+
 #
 
 <details>
