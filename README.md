@@ -27,6 +27,8 @@ I'm an indie developer and music producer building my version of the digital wor
 
 ![pglbiscuite's GitHub stats](https://github-readme-stats-beta-seven-88.vercel.app/api?username=pglbiscuite&show_icons=true&theme=gruvbox)
 
+![pglbiscuite's GitHub Stats](https://github-readme-stats-beta-seven-88.vercel.app/api?username=pglbiscuite&bg_color=e0f7fa&title_color=0288d1&text_color=01579b&icon_color=039be5&border_color=b3e5fc)
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
