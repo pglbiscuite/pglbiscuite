@@ -25,7 +25,7 @@ I'm an indie developer and music producer building my version of the digital wor
 
 ### 📊 Stats
 
-![pglbiscuite's GitHub Stats](https://github-readme-stats-git-master-alexs-projects-f3b3d127.vercel.app/api?username=pglbiscuite&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800&bg_color=45,0d1117,1a2332&title_color=80d8ff&text_color=a5d8ff&icon_color=4fc3f7&border_color=29b6f6&custom_title=GitHub%20Stats)
+![pglbiscuite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pglbiscuite&count_private=true&show_icons=true&include_all_commits=true&bg_color=45,0d1117,1a2332&title_color=80d8ff&text_color=a5d8ff&icon_color=4fc3f7&border_color=29b6f6&custom_title=GitHub%20Stats)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
